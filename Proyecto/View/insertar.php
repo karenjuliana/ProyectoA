@@ -10,6 +10,7 @@ sessionValidate();
 
 
 <body>
+<h1> Prueba git</h1>
   <div class="container">
     <div class="card o-hidden border-0 shadow-lg my-5">
       <div class="card-body p-0 bg-gray-300"> 
